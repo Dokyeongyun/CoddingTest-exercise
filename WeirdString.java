@@ -37,7 +37,6 @@ public class WeirdString {
             }
         }
         System.out.println(answer);
-
         return answer;
     }
 }
